@@ -1,4 +1,4 @@
-![reversal]([https://capsule-render.vercel.app/api?type=rect&text=Welcometologun'sgit&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Logun's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36))
+![header](https://capsule-render.vercel.app/api?type=rect&text=Welcometologun'sgit&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=Logun's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36))
 ## Studying..✏️
 
 
