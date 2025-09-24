@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /><img src="https://img.shields.io/badge/intellij%20idea-%23000000.svg?&style=for-the-badge&logo=intellij%20idea&logoColor=white" />
 
-##자격증
+## 교육 과정 💼
+- 미래융합교육원 - [계룡건설] 빅데이터 기반 Green Tech SW개발자(2023.12 ~ 2024.06)
+- 코멘토 - IT 대기업 현업 개발자와 함께 하는 백엔드 개발 실무(2025.08.23 ~ 2025.09.20)
+  
+## 자격증 📋
 - 정보처리기사
 - SQLD
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logun01)](https://github.com/anuraghazra/github-readme-stats)
