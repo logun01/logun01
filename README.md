@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - 정보처리기사
 - SQLD
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logun01&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logun01&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=logun01)](https://github.com/logun01/github-readme-stats)
