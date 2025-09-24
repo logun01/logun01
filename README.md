@@ -1,4 +1,6 @@
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=waving)
 ## Studying..✏️
+
 
 <!--
 **logun01/logun01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +31,4 @@ Here are some ideas to get you started:
 - 정보처리기사
 - SQLD
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logun01)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=logun01&show_icons=true&theme=radical)
